@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="app_title">AInglish</string>
+
+    <!-- 네비게이션 관련 문자열 -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="tv_select">Select your streamer</string>
+    <string name="hint_rtsp">rtsp://yourendpoint</string>
+    <string name="hint_rtmp">rtmp://yourendpoint</string>
+    <string name="start_button">Start stream</string>
+    <string name="stop_button">Stop stream</string>
+    <string name="switch_camera_button">Switch camera</string>
+    <string name="select_file">Select file</string>
+    <string name="start_record">Start record</string>
+    <string name="stop_record">Stop record</string>
+    <string name="resync_file">ReSync file</string>
+    <string name="start_player">Start player</string>
+    <string name="stop_player">Stop player</string>
+    <string name="yourendpoint">yourendpoint</string>
+
+
+    <!-- Toolbar 관련 문자열 -->
+    <string name="toolbar_main">홈</string>
+
+
+    <!-- Drawer 관련 문자열 -->
+    <string name="drawer_profile">설정</string>
+    <string name="drawer_score">나의 점수</string>
+    <string name="drawer_teacher">선생님 선택</string>
+    <string name="drawer_coin">코인 충전</string>
+
+    <!-- Botton네비게이션 관련 문자열 -->
+    <string name="nav_bottom_home">홈</string>
+    <string name="nav_bottom_translate">번역기록</string>
+    <string name="nav_bottom_chat">1:1채팅</string>
+    <string name="nav_bottom_streaming">영상통화</string>
+
+    <string name="Login">로그인</string>
+    <string name="Register">이메일로 로그인</string>
+
+
+    <!-- 이용약관 관련 문자열 -->
+    <string name="RegisterAgreeAll">모두 동의합니다.</string>
+    <string name="RegisterAgreeShowContent">현재 준비중입니다.</string>
+    <string name="RegisterAgreeAllDetail">이용약관, 개인정보 수집 및 이용, 아잉글리시 커뮤니티 가이드라인에 모두 동의합니다. </string>
+    <string name="RegisterAgreeUse">이용약관 동의</string>
+    <string name="RegisterInfoGather">개인정보 수집 및 이용 동의</string>
+    <string name="RegisterGuideLine">아잉글리쉬 커뮤니티 가이드라인 동의</string>
+    <string name="RegisterNecessary">필수</string>
+
+
+    <!-- Button 관련 문자열 -->
+    <string name="btn_next">다음</string>
+    <string name="btn_complete">완료</string>
+
+
+</resources>
+

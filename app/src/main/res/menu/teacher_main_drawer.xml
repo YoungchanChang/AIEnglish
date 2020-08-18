@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_bottom_chat"
+        android:icon="@drawable/bottom_chat"
+        android:title="@string/nav_bottom_chat"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/nav_bottom_streaming"
+        android:icon="@drawable/bottom_stream"
+        android:title="@string/nav_bottom_streaming"
+        app:showAsAction="ifRoom" />
+
+</menu>
